@@ -1,5 +1,5 @@
 # opt_gene_circuit
-A small program to optimize gene circuit parameters for adaptation.
+A small program to optimize gene circuit parameters for adaptation, utilizing the automatic differentitation from TensorFlow.
 
 My environment during coding: python 3.8, tensorflow 2.3.
 
